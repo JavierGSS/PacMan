@@ -1,4 +1,6 @@
-# PacMan Window Borders Detector
+#Detector
+
+## PacMan Window Borders Detector
 <img src="PacMan1.png" width='200'/>
 
 ## Description
